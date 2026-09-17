@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Movie Library</title>
+  <meta name="description" content="Movie rankings, Need to Watch, and TV show rankings.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <h1>🎬 Movie Library</h1>
+        <p>Movies and TV shows worth keeping track of.</p>
+      </div>
+      <div id="updated" class="updated">Loading...</div>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="Library sections">
+    <button class="tab active" data-section="movies">⭐ Movie Rankings</button>
+    <button class="tab" data-section="watch">👀 Need to Watch</button>
+    <button class="tab" data-section="tv">📺 TV Show Rankings</button>
+  </nav>
+
+  <main class="content">
+    <section id="movies" class="section active">
+      <div class="section-heading">
+        <div>
+          <h2>Movie Rankings</h2>
+          <p>Your rated movies in their current manual ranking order.</p>
+        </div>
+        <span id="movie-count" class="count">0</span>
+      </div>
+      <div id="movie-list" class="list"></div>
+    </section>
+
+    <section id="watch" class="section">
+      <div class="section-heading">
+        <div>
+          <h2>Need to Watch</h2>
+          <p>Movies and TV shows currently marked as Need to Watch.</p>
+        </div>
+        <span id="watch-count" class="count">0</span>
+      </div>
+      <div id="watch-list" class="list"></div>
+    </section>
+
+    <section id="tv" class="section">
+      <div class="section-heading">
+        <div>
+          <h2>TV Show Rankings</h2>
+          <p>Your rated TV shows in their current manual ranking order.</p>
+        </div>
+        <span id="tv-count" class="count">0</span>
+      </div>
+      <div id="tv-list" class="list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Read-only public library</span>
+  </footer>
+
+  <script>
+    const sections = document.querySelectorAll('.section');
+    const tabs = document.querySelectorAll('.tab');
+
+    tabs.forEach((tab) => {
+      tab.addEventListener('click', () => {
+        const target = tab.dataset.section;
+        tabs.forEach((item) => item.classList.toggle('active', item === tab));
+        sections.forEach((section) => section.classList.toggle('active', section.id === target));
+      });
+    });
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function year(value) {
+      if (!value) return '';
+      const date = new Date(value);
+      return Number.isNaN(date.getTime()) ? '' : String(date.getFullYear());
+    }
+
+    function poster(item, fallback) {
+      if (item.posterUrl) {
+        return `<img src="${escapeHtml(item.posterUrl)}" alt="${escapeHtml(item.title)} poster" loading="lazy">`;
+      }
+      return `<div class="poster fallback">${fallback}</div>`;
+    }
+
+    function empty(message) {
+      return `<div class="empty">${escapeHtml(message)}</div>`;
+    }
+
+    function renderRanked(items, fallback) {
+      if (!items.length) return empty('Nothing here yet.');
+      return items.map((item, index) => `
+        <article class="card">
+          <div class="rank">${index + 1}</div>
+          <div class="poster-wrap">${poster(item, fallback)}</div>
+          <div class="details">
+            <h3>${escapeHtml(item.title)}</h3>
+            ${year(item.releaseDate) ? `<div class="year">${year(item.releaseDate)}</div>` : ''}
+          </div>
+          <div class="rating">
+            <span>Rating</span>
+            <strong>${item.rating !== null && item.rating !== undefined ? escapeHtml(item.rating) + '/10' : '—'}</strong>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    function renderNeedToWatch(items) {
+      if (!items.length) return empty('Nothing to watch yet.');
+      return items.map((item) => `
+        <article class="card">
+          <div class="type">${item.mediaType === 'TV_SHOW' ? 'TV' : 'MOVIE'}</div>
+          <div class="poster-wrap">${poster(item, item.mediaType === 'TV_SHOW' ? '📺' : '🎬')}</div>
+          <div class="details">
+            <h3>${escapeHtml(item.title)}</h3>
+            ${year(item.releaseDate) ? `<div class="year">${year(item.releaseDate)}</div>` : ''}
+          </div>
+        </article>
+      `).join('');
+    }
+
+    async function load() {
+      try {
+        const response = await fetch('data.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Could not load public library data.');
+        const data = await response.json();
+
+        document.getElementById('movie-count').textContent = data.movies.length;
+        document.getElementById('watch-count').textContent = data.needToWatch.length;
+        document.getElementById('tv-count').textContent = data.tvShows.length;
+
+        document.getElementById('movie-list').innerHTML = renderRanked(data.movies, '🎬');
+        document.getElementById('watch-list').innerHTML = renderNeedToWatch(data.needToWatch);
+        document.getElementById('tv-list').innerHTML = renderRanked(data.tvShows, '📺');
+
+        if (data.updatedAt) {
+          const date = new Date(data.updatedAt);
+          document.getElementById('updated').textContent = Number.isNaN(date.getTime())
+            ? ''
+            : `Updated ${date.toLocaleDateString()} ${date.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' })}`;
+        } else {
+          document.getElementById('updated').textContent = '';
+        }
+      } catch (error) {
+        console.error(error);
+        document.getElementById('updated').textContent = 'Unable to load library';
+        document.querySelectorAll('.list').forEach((list) => {
+          list.innerHTML = empty('The public library data could not be loaded.');
+        });
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>
