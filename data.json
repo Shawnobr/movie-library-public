@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T16:38:07.385Z",
+  "updatedAt": "2026-09-17T16:46:28.320Z",
   "movies": [
     {
       "rank": 1,
@@ -1647,6 +1647,12 @@
       "title": "Close",
       "releaseDate": "2022-11-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Platoon",
+      "releaseDate": "1986-12-19T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg"
     }
   ],
   "tvShows": [
