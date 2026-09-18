@@ -11,7 +11,7 @@
   <header class="site-header">
     <div class="header-inner">
       <div>
-        <h1>🎬 Movie Library</h1>
+        <h1> Movie Library</h1>
         <p>Movies and TV shows worth keeping track of.</p>
       </div>
       <div id="updated" class="updated">Loading...</div>
@@ -124,7 +124,7 @@
       return items.map((item) => `
         <article class="card">
           <div class="type">${item.mediaType === 'TV_SHOW' ? 'TV' : 'MOVIE'}</div>
-          <div class="poster-wrap">${poster(item, item.mediaType === 'TV_SHOW' ? '📺' : '🎬')}</div>
+          <div class="poster-wrap">${poster(item, item.mediaType === 'TV_SHOW' ? '' : '')}</div>
           <div class="details">
             <h3>${escapeHtml(item.title)}</h3>
             ${year(item.releaseDate) ? `<div class="year">${year(item.releaseDate)}</div>` : ''}
@@ -143,9 +143,9 @@
         document.getElementById('watch-count').textContent = data.needToWatch.length;
         document.getElementById('tv-count').textContent = data.tvShows.length;
 
-        document.getElementById('movie-list').innerHTML = renderRanked(data.movies, '🎬');
+        document.getElementById('movie-list').innerHTML = renderRanked(data.movies, '');
         document.getElementById('watch-list').innerHTML = renderNeedToWatch(data.needToWatch);
-        document.getElementById('tv-list').innerHTML = renderRanked(data.tvShows, '📺');
+        document.getElementById('tv-list').innerHTML = renderRanked(data.tvShows, '');
 
         if (data.updatedAt) {
           const date = new Date(data.updatedAt);
