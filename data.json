@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T01:19:37.231Z",
+  "updatedAt": "2026-09-24T18:53:07.956Z",
   "movies": [
     {
       "rank": 1,
@@ -1309,18 +1309,6 @@
     },
     {
       "mediaType": "MOVIE",
-      "title": "Thelma & Louise",
-      "releaseDate": "1991-05-24T00:00:00.000+00:00",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg"
-    },
-    {
-      "mediaType": "MOVIE",
-      "title": "The Da Vinci Code",
-      "releaseDate": "2006-05-17T00:00:00.000+00:00",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg"
-    },
-    {
-      "mediaType": "MOVIE",
       "title": "Pearl Harbor",
       "releaseDate": "2001-05-21T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg"
@@ -1792,6 +1780,12 @@
       "title": "Ad Astra",
       "releaseDate": "2019-09-17T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "21",
+      "releaseDate": "2008-03-27T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg"
     }
   ],
   "tvShows": [
