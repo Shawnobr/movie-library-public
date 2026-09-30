@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:52:44.889Z",
+  "updatedAt": "2026-09-30T14:43:40.175Z",
   "movies": [
     {
       "rank": 1,
@@ -1787,6 +1787,168 @@
       "title": "21",
       "releaseDate": "2008-03-27T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Bourne Identity",
+      "releaseDate": "2002-06-14T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aP8swke3gmowbkfZ6lmNidu0y9p.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Minority Report",
+      "releaseDate": "2002-06-20T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Nerve",
+      "releaseDate": "2016-06-27T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Love, Simon",
+      "releaseDate": "2018-02-16T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Roman J. Israel, Esq.",
+      "releaseDate": "2017-11-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Disaster Artist",
+      "releaseDate": "2017-03-12T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Flashback",
+      "releaseDate": "2021-06-03T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Death of a Unicorn",
+      "releaseDate": "2025-03-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Life of Chuck",
+      "releaseDate": "2025-06-02T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Thor: The Dark World",
+      "releaseDate": "2013-10-30T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Midnight in Paris",
+      "releaseDate": "2011-05-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Unity",
+      "releaseDate": "2015-08-12T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pXskMoxwrtGdPXqB9AJgWzjWaIR.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Fantastic Mr. Fox",
+      "releaseDate": "2009-10-14T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Grand Budapest Hotel",
+      "releaseDate": "2014-02-26T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Runner",
+      "releaseDate": "2026-09-07T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Kung Fu Panda 4",
+      "releaseDate": "2024-03-02T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Electric State",
+      "releaseDate": "2025-02-24T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Love Hurts",
+      "releaseDate": "2025-02-06T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Oxford Murders",
+      "releaseDate": "2008-01-18T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aPGyZg44eCxccfoaNNbJwTJj66J.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Imperium",
+      "releaseDate": "2016-08-19T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fEwo3gZfbeoovdcTyf4o4wATE1r.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Frankenstein",
+      "releaseDate": "2025-10-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Devil All the Time",
+      "releaseDate": "2020-09-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bVL7LGq528h3KzeNI90HOVbV5uW.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Leviticus",
+      "releaseDate": "2026-06-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Official Secrets",
+      "releaseDate": "2019-08-30T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lyCGqSkT3PqLYQXiWs4FCVJBAYW.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Independence Day: Resurgence",
+      "releaseDate": "2016-06-22T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Ready Player One",
+      "releaseDate": "2018-03-28T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Annabelle Comes Home",
+      "releaseDate": "2019-06-26T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg"
     }
   ],
   "tvShows": [
