@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T14:43:40.175Z",
+  "updatedAt": "2026-10-01T19:29:48.655Z",
   "movies": [
     {
       "rank": 1,
@@ -269,1014 +269,1168 @@
     },
     {
       "rank": 39,
+      "rating": 9,
+      "title": "The Imitation Game",
+      "releaseDate": "2014-11-14T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg"
+    },
+    {
+      "rank": 40,
       "rating": 8,
       "title": "Norbit",
       "releaseDate": "2007-02-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "rating": 8,
       "title": "Deadpool",
       "releaseDate": "2016-02-09T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "rating": 9,
       "title": "Robots",
       "releaseDate": "2005-03-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "rating": 9,
       "title": "Avengers: Infinity War",
       "releaseDate": "2018-04-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "rating": 8,
       "title": "Harry Potter and the Deathly Hallows: Part 1",
       "releaseDate": "2010-11-17T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "rating": 8,
       "title": "Harry Potter and the Deathly Hallows: Part 2",
       "releaseDate": "2011-07-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "rating": 9,
       "title": "The Hobbit: The Battle of the Five Armies",
       "releaseDate": "2014-12-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "rating": 9,
       "title": "The Hobbit: An Unexpected Journey",
       "releaseDate": "2012-12-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
     },
     {
-      "rank": 47,
+      "rank": 48,
+      "rating": 9,
+      "title": "Bumblebee",
+      "releaseDate": "2018-11-22T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
+    },
+    {
+      "rank": 49,
       "rating": 8,
       "title": "Black Panther",
       "releaseDate": "2018-02-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "rating": 9,
       "title": "The Hobbit: The Desolation of Smaug",
       "releaseDate": "2013-12-11T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
     },
     {
-      "rank": 49,
+      "rank": 51,
       "rating": 9,
       "title": "Kubo and the Two Strings",
       "releaseDate": "2016-08-18T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg"
     },
     {
-      "rank": 50,
+      "rank": 52,
       "rating": 7,
       "title": "It",
       "releaseDate": "2017-09-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
     },
     {
-      "rank": 51,
+      "rank": 53,
       "rating": 7,
       "title": "Guardians of the Galaxy Vol. 3",
       "releaseDate": "2023-05-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
     },
     {
-      "rank": 52,
+      "rank": 54,
       "rating": 8,
       "title": "Fantastic Beasts: The Crimes of Grindelwald",
       "releaseDate": "2018-11-14T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "rating": 8,
       "title": "The Fantastic 4: First Steps",
       "releaseDate": "2025-07-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg"
     },
     {
-      "rank": 54,
+      "rank": 56,
       "rating": 9,
       "title": "The Polar Express",
       "releaseDate": "2004-11-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
     },
     {
-      "rank": 55,
+      "rank": 57,
       "rating": 8,
       "title": "The Lord of the Rings: The Return of the King",
       "releaseDate": "2003-12-17T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
     },
     {
-      "rank": 56,
+      "rank": 58,
       "rating": 9,
       "title": "Dune",
       "releaseDate": "2021-09-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg"
     },
     {
-      "rank": 57,
+      "rank": 59,
       "rating": 8,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-29T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
     },
     {
-      "rank": 58,
+      "rank": 60,
       "rating": 8,
       "title": "The Avengers",
       "releaseDate": "2012-04-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
     },
     {
-      "rank": 59,
+      "rank": 61,
       "rating": 8,
       "title": "Thor: Ragnarok",
       "releaseDate": "2017-10-02T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
     },
     {
-      "rank": 60,
+      "rank": 62,
       "rating": 8,
       "title": "Harry Potter and the Half-Blood Prince",
       "releaseDate": "2009-07-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
     },
     {
-      "rank": 61,
+      "rank": 63,
       "rating": 8,
       "title": "Avengers: Age of Ultron",
       "releaseDate": "2015-04-22T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
     },
     {
-      "rank": 62,
+      "rank": 64,
       "rating": 8,
       "title": "The Perks of Being a Wallflower",
       "releaseDate": "2012-09-20T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg"
     },
     {
-      "rank": 63,
+      "rank": 65,
       "rating": 8,
       "title": "Captain America: Civil War",
       "releaseDate": "2016-04-27T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"
     },
     {
-      "rank": 64,
+      "rank": 66,
       "rating": 9,
       "title": "Dune: Part Two",
       "releaseDate": "2024-02-27T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
     },
     {
-      "rank": 65,
+      "rank": 67,
       "rating": 8,
       "title": "Spider-Man: No Way Home",
       "releaseDate": "2021-12-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
     },
     {
-      "rank": 66,
+      "rank": 68,
       "rating": 8,
       "title": "Don't Look Up",
       "releaseDate": "2021-12-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
     },
     {
-      "rank": 67,
+      "rank": 69,
       "rating": 8,
       "title": "Rango",
       "releaseDate": "2011-03-02T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
     },
     {
-      "rank": 68,
+      "rank": 70,
       "rating": 7,
       "title": "X-Men",
       "releaseDate": "2000-07-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bRDAc4GogyS9ci3ow7UnInOcriN.jpg"
     },
     {
-      "rank": 69,
+      "rank": 71,
       "rating": 8,
       "title": "The Lego Movie",
       "releaseDate": "2014-02-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg"
     },
     {
-      "rank": 70,
+      "rank": 72,
       "rating": 8,
       "title": "Ice Age",
       "releaseDate": "2002-03-14T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
     },
     {
-      "rank": 71,
+      "rank": 73,
       "rating": 8,
       "title": "Guardians of the Galaxy",
       "releaseDate": "2014-07-30T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
     },
     {
-      "rank": 72,
+      "rank": 74,
       "rating": 8,
       "title": "The Conjuring: Last Rites",
       "releaseDate": "2025-09-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/byWgphT74ClOVa8EOGzYDkl8DVL.jpg"
     },
     {
-      "rank": 73,
+      "rank": 75,
+      "rating": 9,
+      "title": "Pacific Rim",
+      "releaseDate": "2013-07-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg"
+    },
+    {
+      "rank": 76,
+      "rating": 9,
+      "title": "Pacific Rim: Uprising",
+      "releaseDate": "2018-03-21T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nFWhttU8PM50t25NPdy7PE7rv3G.jpg"
+    },
+    {
+      "rank": 77,
       "rating": 9,
       "title": "The Adam Project",
       "releaseDate": "2022-03-11T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
     },
     {
-      "rank": 74,
+      "rank": 78,
       "rating": 8,
       "title": "A Beautiful Day in the Neighborhood",
       "releaseDate": "2019-09-07T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pgxn1siPnWbSOKUeovfC86OwhWU.jpg"
     },
     {
-      "rank": 75,
+      "rank": 79,
+      "rating": 8,
+      "title": "The Maze Runner",
+      "releaseDate": "2014-09-10T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg"
+    },
+    {
+      "rank": 80,
+      "rating": 9,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-07-24T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
+    },
+    {
+      "rank": 81,
       "rating": 8,
       "title": "The Croods",
       "releaseDate": "2013-03-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"
     },
     {
-      "rank": 76,
+      "rank": 82,
       "rating": 8,
       "title": "Deadpool & Wolverine",
       "releaseDate": "2024-07-24T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
     },
     {
-      "rank": 77,
+      "rank": 83,
       "rating": 8,
       "title": "Charlie and the Chocolate Factory",
       "releaseDate": "2005-07-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg"
     },
     {
-      "rank": 78,
+      "rank": 84,
       "rating": 8,
       "title": "Insidious",
       "releaseDate": "2011-03-31T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1egpmVXuXed58TH2UOnX1nATTrf.jpg"
     },
     {
-      "rank": 79,
+      "rank": 85,
+      "rating": 8,
+      "title": "Maze Runner: The Scorch Trials",
+      "releaseDate": "2015-09-09T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg"
+    },
+    {
+      "rank": 86,
       "rating": 8,
       "title": "Goosebumps",
       "releaseDate": "2015-08-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg"
     },
     {
-      "rank": 80,
+      "rank": 87,
+      "rating": 7,
+      "title": "Cars 2",
+      "releaseDate": "2011-06-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
+    },
+    {
+      "rank": 88,
       "rating": 7,
       "title": "The Lorax",
       "releaseDate": "2012-03-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg"
     },
     {
-      "rank": 81,
+      "rank": 89,
       "rating": 9,
       "title": "Turbo",
       "releaseDate": "2013-07-11T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/inTKQni4YW8syrfgnXHwzmNeSo4.jpg"
     },
     {
-      "rank": 82,
+      "rank": 90,
       "rating": 8,
       "title": "The Theory of Everything",
       "releaseDate": "2014-11-07T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7kwcLFNt887saoQAL7EY0XnW7VI.jpg"
     },
     {
-      "rank": 83,
+      "rank": 91,
       "rating": 7,
       "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
       "releaseDate": "2017-05-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg"
     },
     {
-      "rank": 84,
+      "rank": 92,
       "rating": 7,
       "title": "Fantastic Four",
       "releaseDate": "2015-08-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
     },
     {
-      "rank": 85,
+      "rank": 93,
       "rating": 8,
       "title": "Free Guy",
       "releaseDate": "2021-08-11T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg"
     },
     {
-      "rank": 86,
+      "rank": 94,
       "rating": 9,
       "title": "Avengers: Endgame",
       "releaseDate": "2019-04-24T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
     },
     {
-      "rank": 87,
+      "rank": 95,
       "rating": 6,
       "title": "Blade Runner 2049",
       "releaseDate": "2017-10-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
     },
     {
-      "rank": 88,
+      "rank": 96,
       "rating": 8,
       "title": "Ace Ventura: When Nature Calls",
       "releaseDate": "1995-11-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg"
     },
     {
-      "rank": 89,
+      "rank": 97,
       "rating": 7,
       "title": "The Super Mario Galaxy Movie",
       "releaseDate": "2026-04-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
     },
     {
-      "rank": 90,
+      "rank": 98,
       "rating": 7,
       "title": "Insidious: The Red Door",
       "releaseDate": "2023-07-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg"
     },
     {
-      "rank": 91,
+      "rank": 99,
       "rating": 8,
       "title": "Mrs. Doubtfire",
       "releaseDate": "1993-11-24T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg"
     },
     {
-      "rank": 92,
+      "rank": 100,
       "rating": 8,
       "title": "Hercules",
       "releaseDate": "1997-06-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg"
     },
     {
-      "rank": 93,
+      "rank": 101,
       "rating": 8,
       "title": "Good Morning, Vietnam",
       "releaseDate": "1987-12-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sreISlFUn5TyR41QNjlfAdX5SEW.jpg"
     },
     {
-      "rank": 94,
+      "rank": 102,
       "rating": 8,
       "title": "Jumanji",
       "releaseDate": "1995-12-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg"
     },
     {
-      "rank": 95,
+      "rank": 103,
       "rating": 8,
       "title": "Wonder",
       "releaseDate": "2017-11-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg"
     },
     {
-      "rank": 96,
+      "rank": 104,
       "rating": 8,
       "title": "Ted",
       "releaseDate": "2012-06-29T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg"
     },
     {
-      "rank": 97,
+      "rank": 105,
       "rating": 8,
       "title": "Cast Away",
       "releaseDate": "2000-12-22T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg"
     },
     {
-      "rank": 98,
+      "rank": 106,
       "rating": 9,
       "title": "Fantastic Beasts and Where to Find Them",
       "releaseDate": "2016-11-16T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg"
     },
     {
-      "rank": 99,
+      "rank": 107,
       "rating": 7,
       "title": "The Nun II",
       "releaseDate": "2023-09-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
-      "rank": 100,
+      "rank": 108,
       "rating": 7,
       "title": "Happy Feet Two",
       "releaseDate": "2011-11-17T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2gWiQ4mn85jcXtREVePlVViupeV.jpg"
     },
     {
-      "rank": 101,
+      "rank": 109,
       "rating": 7,
       "title": "Peaky Blinders: The Immortal Man",
       "releaseDate": "2026-03-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
     },
     {
-      "rank": 102,
+      "rank": 110,
       "rating": 7,
       "title": "The Conjuring 2",
       "releaseDate": "2016-06-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg"
     },
     {
-      "rank": 103,
+      "rank": 111,
       "rating": 7,
       "title": "Thor: Love and Thunder",
       "releaseDate": "2022-07-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
     },
     {
-      "rank": 104,
+      "rank": 112,
       "rating": 8,
       "title": "Cars",
       "releaseDate": "2006-06-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
     },
     {
-      "rank": 105,
+      "rank": 113,
       "rating": 8,
       "title": "Spider-Man: Homecoming",
       "releaseDate": "2017-07-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
     },
     {
-      "rank": 106,
+      "rank": 114,
       "rating": 8,
       "title": "Toy Story",
       "releaseDate": "1995-11-22T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
     },
     {
-      "rank": 107,
+      "rank": 115,
       "rating": 8,
       "title": "The Lion King",
       "releaseDate": "1994-06-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
     },
     {
-      "rank": 108,
+      "rank": 116,
       "rating": 7,
       "title": "Inception",
       "releaseDate": "2010-07-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
     },
     {
-      "rank": 109,
+      "rank": 117,
       "rating": 7,
       "title": "Ghostbusters: Frozen Empire",
       "releaseDate": "2024-03-20T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg"
     },
     {
-      "rank": 110,
+      "rank": 118,
       "rating": 8,
       "title": "Alice in Wonderland",
       "releaseDate": "2010-03-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
     },
     {
-      "rank": 111,
+      "rank": 119,
       "rating": 7,
       "title": "Ghostbusters: Afterlife",
       "releaseDate": "2021-11-18T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sg4xJaufDiQl7caFEskBtQXfD4x.jpg"
     },
     {
-      "rank": 112,
+      "rank": 120,
+      "rating": 8,
+      "title": "Captain Marvel",
+      "releaseDate": "2019-03-06T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+    },
+    {
+      "rank": 121,
       "rating": 7,
       "title": "Insidious: Chapter 2",
       "releaseDate": "2013-09-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg"
     },
     {
-      "rank": 113,
+      "rank": 122,
       "rating": 6,
       "title": "Harry Potter and the Order of the Phoenix",
       "releaseDate": "2007-07-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
     },
     {
-      "rank": 114,
+      "rank": 123,
       "rating": 9,
       "title": "The Great Gatsby",
       "releaseDate": "2013-05-09T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg"
     },
     {
-      "rank": 115,
+      "rank": 124,
+      "rating": 9,
+      "title": "Maze Runner: The Death Cure",
+      "releaseDate": "2018-01-10T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg"
+    },
+    {
+      "rank": 125,
+      "rating": 8,
+      "title": "The Angry Birds Movie",
+      "releaseDate": "2016-05-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iOH0fEFtV9z9rZp9zmBFGGeWicv.jpg"
+    },
+    {
+      "rank": 126,
+      "rating": 8,
+      "title": "Free Birds",
+      "releaseDate": "2013-10-30T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg"
+    },
+    {
+      "rank": 127,
+      "rating": 7,
+      "title": "Zootopia 2",
+      "releaseDate": "2025-11-26T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    },
+    {
+      "rank": 128,
+      "rating": 7,
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022-03-24T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg"
+    },
+    {
+      "rank": 129,
       "rating": 7,
       "title": "Ant-Man and the Wasp",
       "releaseDate": "2018-07-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg"
     },
     {
-      "rank": 116,
+      "rank": 130,
       "rating": 7,
       "title": "Sleepy Hollow",
       "releaseDate": "1999-11-19T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg"
     },
     {
-      "rank": 117,
+      "rank": 131,
       "rating": 7,
       "title": "Iron Man 2",
       "releaseDate": "2010-04-28T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
     },
     {
-      "rank": 118,
+      "rank": 132,
       "rating": 7,
       "title": "Sonic the Hedgehog",
       "releaseDate": "2020-02-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"
     },
     {
-      "rank": 119,
+      "rank": 133,
       "rating": 7,
       "title": "Spider-Man: Far From Home",
       "releaseDate": "2019-06-28T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
     },
     {
-      "rank": 120,
+      "rank": 134,
       "rating": 8,
       "title": "Rio",
       "releaseDate": "2011-04-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg"
     },
     {
-      "rank": 121,
+      "rank": 135,
       "rating": 6,
       "title": "Sonic the Hedgehog 3",
       "releaseDate": "2024-12-19T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
     },
     {
-      "rank": 122,
+      "rank": 136,
       "rating": 7,
       "title": "The House with a Clock in Its Walls",
       "releaseDate": "2018-09-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qM66Hv4ByAxnilr0jaqCA9uOD4Y.jpg"
     },
     {
-      "rank": 123,
+      "rank": 137,
       "rating": 8,
       "title": "tick, tick... BOOM!",
       "releaseDate": "2021-11-11T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     },
     {
-      "rank": 124,
+      "rank": 138,
       "rating": 7,
       "title": "Harry Potter and the Chamber of Secrets",
       "releaseDate": "2002-11-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
     },
     {
-      "rank": 125,
+      "rank": 139,
       "rating": 7,
       "title": "The Amazing Spider-Man",
       "releaseDate": "2012-06-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
     },
     {
-      "rank": 126,
+      "rank": 140,
       "rating": 8,
       "title": "Toy Story 2",
       "releaseDate": "1999-10-30T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg"
     },
     {
-      "rank": 127,
+      "rank": 141,
       "rating": 7,
       "title": "Iron Man 3",
       "releaseDate": "2013-04-18T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
     },
     {
-      "rank": 128,
+      "rank": 142,
       "rating": 8,
       "title": "Kung Fu Panda",
       "releaseDate": "2008-06-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg"
     },
     {
-      "rank": 129,
+      "rank": 143,
       "rating": 8,
       "title": "Hacksaw Ridge",
       "releaseDate": "2016-10-07T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg"
     },
     {
-      "rank": 130,
+      "rank": 144,
       "rating": 8,
       "title": "Deadpool 2",
       "releaseDate": "2018-05-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"
     },
     {
-      "rank": 131,
+      "rank": 145,
       "rating": 8,
       "title": "Rio 2",
       "releaseDate": "2014-03-19T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg"
     },
     {
-      "rank": 132,
+      "rank": 146,
       "rating": 9,
       "title": "Hook",
       "releaseDate": "1991-04-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg"
     },
     {
-      "rank": 133,
+      "rank": 147,
       "rating": 8,
       "title": "X-Men: Days of Future Past",
       "releaseDate": "2014-05-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg"
     },
     {
-      "rank": 134,
+      "rank": 148,
       "rating": 8,
       "title": "Aladdin",
       "releaseDate": "1992-11-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg"
     },
     {
-      "rank": 135,
+      "rank": 149,
       "rating": 9,
       "title": "Happy Feet",
       "releaseDate": "2006-11-16T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg"
     },
     {
-      "rank": 136,
+      "rank": 150,
       "rating": 9,
       "title": "The Founder",
       "releaseDate": "2016-11-24T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg"
     },
     {
-      "rank": 137,
+      "rank": 151,
       "rating": 8,
       "title": "Lucy",
       "releaseDate": "2014-07-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg"
     },
     {
-      "rank": 138,
+      "rank": 152,
       "rating": 7,
       "title": "The Social Network",
       "releaseDate": "2010-10-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
     },
     {
-      "rank": 139,
+      "rank": 153,
+      "rating": 7,
+      "title": "Scoob!",
+      "releaseDate": "2020-07-08T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"
+    },
+    {
+      "rank": 154,
+      "rating": 7,
+      "title": "Enola Holmes",
+      "releaseDate": "2020-09-22T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "rank": 155,
+      "rating": 7,
+      "title": "Thor",
+      "releaseDate": "2011-04-21T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+    },
+    {
+      "rank": 156,
       "rating": 7,
       "title": "The Super Mario Bros. Movie",
       "releaseDate": "2023-04-05T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
     },
     {
-      "rank": 140,
+      "rank": 157,
+      "rating": 7,
+      "title": "Five Nights at Freddy's 2",
+      "releaseDate": "2025-12-03T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg"
+    },
+    {
+      "rank": 158,
       "rating": 7,
       "title": "King Kong",
       "releaseDate": "2005-12-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg"
     },
     {
-      "rank": 141,
+      "rank": 159,
       "rating": 6,
       "title": "The Addams Family",
       "releaseDate": "2019-10-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg"
     },
     {
-      "rank": 142,
+      "rank": 160,
       "rating": 7,
       "title": "The Croods: A New Age",
       "releaseDate": "2020-11-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg"
     },
     {
-      "rank": 143,
+      "rank": 161,
       "rating": 7,
       "title": "The Dark Tower",
       "releaseDate": "2017-08-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/i9GUSgddIqrroubiLsvvMRYyRy0.jpg"
     },
     {
-      "rank": 144,
+      "rank": 162,
       "rating": 6,
       "title": "The Boss Baby",
       "releaseDate": "2017-03-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg"
     },
     {
-      "rank": 145,
+      "rank": 163,
       "rating": 7,
       "title": "Uncharted",
       "releaseDate": "2022-02-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg"
     },
     {
-      "rank": 146,
+      "rank": 164,
       "rating": 8,
       "title": "Romeo + Juliet",
       "releaseDate": "1996-11-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eLf4jclPijOqfEp6bDAmezRFxk5.jpg"
     },
     {
-      "rank": 147,
+      "rank": 165,
       "rating": 6,
       "title": "Ant-Man and the Wasp: Quantumania",
       "releaseDate": "2023-02-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg"
     },
     {
-      "rank": 148,
+      "rank": 166,
       "rating": 6,
       "title": "Sonic the Hedgehog 2",
       "releaseDate": "2022-03-30T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg"
     },
     {
-      "rank": 149,
+      "rank": 167,
       "rating": 7,
       "title": "The Incredible Hulk",
       "releaseDate": "2008-06-12T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg"
     },
     {
-      "rank": 150,
+      "rank": 168,
       "rating": 8,
       "title": "Flubber",
       "releaseDate": "1997-11-26T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg"
     },
     {
-      "rank": 151,
+      "rank": 169,
+      "rating": 8,
+      "title": "Crimson Peak",
+      "releaseDate": "2015-10-13T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg"
+    },
+    {
+      "rank": 170,
       "rating": 6,
       "title": "Shark Tale",
       "releaseDate": "2004-09-20T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg"
     },
     {
-      "rank": 152,
+      "rank": 171,
       "rating": 7,
       "title": "Field of Dreams",
       "releaseDate": "1989-04-21T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg"
     },
     {
-      "rank": 153,
+      "rank": 172,
       "rating": 6,
       "title": "Sing",
       "releaseDate": "2016-11-23T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg"
     },
     {
-      "rank": 154,
+      "rank": 173,
       "rating": 6,
       "title": "The Ring",
       "releaseDate": "2002-10-18T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg"
     },
     {
-      "rank": 155,
+      "rank": 174,
       "rating": 6,
       "title": "Spies in Disguise",
       "releaseDate": "2019-12-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/z52xI0MnoX1rqySFJYnmBqHbXRn.jpg"
     },
     {
-      "rank": 156,
+      "rank": 175,
       "rating": 7,
       "title": "Venom: Let There Be Carnage",
       "releaseDate": "2021-09-30T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg"
     },
     {
-      "rank": 157,
+      "rank": 176,
       "rating": 6,
       "title": "Onward",
       "releaseDate": "2020-02-29T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
     },
     {
-      "rank": 158,
+      "rank": 177,
       "rating": 7,
       "title": "The Last House",
       "releaseDate": "2026-08-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
     },
     {
-      "rank": 159,
+      "rank": 178,
       "rating": 6,
       "title": "Insidious: The Last Key",
       "releaseDate": "2018-01-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg"
     },
     {
-      "rank": 160,
+      "rank": 179,
       "rating": 6,
       "title": "Jumanji: Welcome to the Jungle",
       "releaseDate": "2017-12-09T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg"
     },
     {
-      "rank": 161,
+      "rank": 180,
+      "rating": 6,
+      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      "releaseDate": "2014-10-08T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg"
+    },
+    {
+      "rank": 181,
       "rating": 7,
       "title": "Pokémon Detective Pikachu",
       "releaseDate": "2019-05-03T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg"
     },
     {
-      "rank": 162,
+      "rank": 182,
       "rating": 7,
       "title": "Jumanji: The Next Level",
       "releaseDate": "2019-12-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
     },
     {
-      "rank": 163,
+      "rank": 183,
       "rating": 6,
       "title": "Dolittle",
       "releaseDate": "2020-01-02T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg"
     },
     {
-      "rank": 164,
+      "rank": 184,
       "rating": 6,
       "title": "The Matrix",
       "releaseDate": "1999-03-31T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
     },
     {
-      "rank": 165,
+      "rank": 185,
       "rating": 4,
       "title": "Harry Potter and the Philosopher's Stone",
       "releaseDate": "2001-11-16T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
     },
     {
-      "rank": 166,
+      "rank": 186,
       "rating": 5,
       "title": "The Lego Movie 2: The Second Part",
       "releaseDate": "2019-02-06T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
     },
     {
-      "rank": 167,
+      "rank": 187,
       "rating": 6,
       "title": "Toy Story 4",
       "releaseDate": "2019-06-19T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
     },
     {
-      "rank": 168,
+      "rank": 188,
       "rating": 7,
       "title": "The Amazing Spider-Man 2",
       "releaseDate": "2014-04-16T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg"
     },
     {
-      "rank": 169,
+      "rank": 189,
       "rating": 6,
       "title": "The Simpsons Movie",
       "releaseDate": "2007-07-25T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg"
     },
     {
-      "rank": 170,
+      "rank": 190,
       "rating": 5,
       "title": "Pirates of the Caribbean: On Stranger Tides",
       "releaseDate": "2011-05-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
     },
     {
-      "rank": 171,
+      "rank": 191,
       "rating": 7,
       "title": "Monsters vs Aliens",
       "releaseDate": "2009-03-19T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg"
     },
     {
-      "rank": 172,
+      "rank": 192,
       "rating": 7,
       "title": "TRON: Ares",
       "releaseDate": "2025-10-08T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
     },
     {
-      "rank": 173,
+      "rank": 193,
+      "rating": 6,
+      "title": "The Nutcracker and the Four Realms",
+      "releaseDate": "2018-10-26T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg"
+    },
+    {
+      "rank": 194,
+      "rating": 6,
+      "title": "Cars 3",
+      "releaseDate": "2017-06-15T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+    },
+    {
+      "rank": 195,
       "rating": 6,
       "title": "Sherlock Gnomes",
       "releaseDate": "2018-03-15T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg"
     },
     {
-      "rank": 174,
+      "rank": 196,
       "rating": 6,
       "title": "Sing 2",
       "releaseDate": "2021-12-01T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
     },
     {
-      "rank": 175,
+      "rank": 197,
       "rating": 5,
       "title": "FernGully: The Last Rainforest",
       "releaseDate": "1992-04-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg"
     },
     {
-      "rank": 176,
+      "rank": 198,
       "rating": 7,
       "title": "Edward Scissorhands",
       "releaseDate": "1990-12-07T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg"
     },
     {
-      "rank": 177,
+      "rank": 199,
       "rating": 5,
       "title": "A Minecraft Movie",
       "releaseDate": "2025-03-31T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg"
     },
     {
-      "rank": 178,
+      "rank": 200,
       "rating": 6,
       "title": "Borderlands",
       "releaseDate": "2024-08-07T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg"
     },
     {
-      "rank": 179,
+      "rank": 201,
       "rating": 4,
       "title": "Twister",
       "releaseDate": "1996-05-10T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg"
     },
     {
-      "rank": 180,
+      "rank": 202,
       "rating": 4,
       "title": "Everyone's Hero",
       "releaseDate": "2006-08-04T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zevMhG4AIAJpOKLqtUCxzC5T3JA.jpg"
     },
     {
-      "rank": 181,
+      "rank": 203,
       "rating": 3,
       "title": "The Flash",
       "releaseDate": "2023-06-13T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
     },
     {
-      "rank": 182,
+      "rank": 204,
       "rating": 3,
       "title": "Lemony Snicket's A Series of Unfortunate Events",
       "releaseDate": "2004-12-16T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg"
     },
     {
-      "rank": 183,
+      "rank": 205,
       "rating": 1,
       "title": "Cats",
       "releaseDate": "2019-12-19T00:00:00.000+00:00",
@@ -1949,6 +2103,144 @@
       "title": "Annabelle Comes Home",
       "releaseDate": "2019-06-26T00:00:00.000+00:00",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Divergent",
+      "releaseDate": "2014-03-14T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Billionaire Boys Club",
+      "releaseDate": "2018-07-19T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7EpC1etIcUQxqPnBz0CpHLp3evv.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Goldfinch",
+      "releaseDate": "2019-09-12T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Darjeeling Limited",
+      "releaseDate": "2007-09-07T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Bottle Rocket",
+      "releaseDate": "1996-02-21T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "No Escape",
+      "releaseDate": "2015-08-26T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Paint",
+      "releaseDate": "2023-04-06T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5ELRsmAhDj3FKYYFIrOcOLXyVSM.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The King",
+      "releaseDate": "2019-10-11T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Batman",
+      "releaseDate": "2022-03-01T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Mickey 17",
+      "releaseDate": "2025-02-28T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Primetime",
+      "releaseDate": "2026-09-23T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Red Eye",
+      "releaseDate": "2005-08-10T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ba0v2Uluo5MZe3Yto3MH9NQq792.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Trench",
+      "releaseDate": "1999-09-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tEK7lwfMz7Hy3LhuunPH0cjQDXl.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Small Things Like These",
+      "releaseDate": "2024-11-01T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "A Quiet Place Part II",
+      "releaseDate": "2021-05-21T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Loving Vincent",
+      "releaseDate": "2017-06-22T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/56sq57kDm7XgyXBYrgJLumo0Jac.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Eternals",
+      "releaseDate": "2021-11-03T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "'71",
+      "releaseDate": "2014-10-10T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2ZfUpDXEFQxEyXfzfxGFA9rcbP1.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Green Knight",
+      "releaseDate": "2021-07-29T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Schindler's List",
+      "releaseDate": "1993-12-15T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "Page Eight",
+      "releaseDate": "2011-08-28T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/69q0ZufQqPCjFbyuTxXRtqQtDd6.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The King's Man",
+      "releaseDate": "2021-12-22T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iMjSfMUuCkCE7z5fzGtjeDusPD3.jpg"
+    },
+    {
+      "mediaType": "MOVIE",
+      "title": "The Menu",
+      "releaseDate": "2022-11-17T00:00:00.000+00:00",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
     }
   ],
   "tvShows": [
